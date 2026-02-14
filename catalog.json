@@ -22,7 +22,7 @@
     { "id": "prod-80ab975c-016", "name": "Standard Item 16", "category": "clothing", "price": 144.63, "stock": 190, "rating": 2.4 }
   ],
   "aggregations": {
-    "clothing": { "count": 5, "inventoryValue": 268086.76 },
+    "clothing": { "count": 5, "inventoryValue": 267986.76 },
     "electronics": { "count": 4, "inventoryValue": 122384.09 },
     "sports": { "count": 2, "inventoryValue": 92648.22 },
     "books": { "count": 2, "inventoryValue": 68860.20 },
